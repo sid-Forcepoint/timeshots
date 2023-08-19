@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "timeshots",
+    "slug": "timeshots",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "timeshots"
+}
